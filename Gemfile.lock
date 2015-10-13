@@ -22,7 +22,7 @@ PATH
       kaminari (~> 0.14.1)
       locomotive-aloha-rails (~> 0.23.2.2)
       locomotive-tinymce-rails (~> 3.5.8.2)
-      locomotive_plugins (~> 1.1.0)
+      locomotive_plugins 
       locomotivecms_solid (~> 0.2.2)
       mime-types (~> 1.19)
       mimetype-fu (~> 0.1.2)
