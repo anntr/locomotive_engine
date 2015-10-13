@@ -4,7 +4,7 @@
 source "https://rubygems.org"
 
 gemspec # Include gemspec dependencies
-  gem 'locomotive_plugins', git: 'https://github.com/anntr/locomotive_plugins.git' # For Developers
+  gem 'locomotive_plugins', git: 'https://github.com/anntr/locomotive_plugins.git'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.4'
