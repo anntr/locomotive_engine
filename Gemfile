@@ -29,7 +29,7 @@ group :development do
   # gem 'locomotive_liquid', path: '../gems/liquid' # for Developers
   # gem 'locomotivecms_solid', path: '../gems/solid' # for Developers
 
-  # gem 'locomotive_plugins', :path => '../locomotive_plugins' # For Developers
+  gem 'locomotive_plugins', git: 'https://github.com/anntr/locomotive_plugins.git' # For Developers
 
   # gem 'carrierwave-mongoid', git: 'git://github.com/locomotivecms/carrierwave-mongoid.git'
 
